@@ -1,3 +1,6 @@
+
+targetScope = 'resourceGroup'
+
 @minLength(3)
 @maxLength(11)
 param storagePrefix string
